@@ -1,0 +1,32 @@
+{
+    "employee1": {
+        "id": "EMP101",
+        "name": "Daniel Lee",
+        "email": "Daniel.Lee@rebelway.com",
+        "role": "Software Developer",
+        "department": "Engineering",
+        "salary": 85000,
+        "full_time": true,
+        "Line Manager": "Sarah Miller"
+    },
+    "employee2": {
+        "id": "EMP102",
+        "name": "Maria Gonzalez",
+        "email": "Maria.Gonzalez@rebelway.com",
+        "role": "QA Engineer",
+        "department": "Engineering",
+        "salary": 78000,
+        "full_time": true,
+        "Line Manager": "Sarah Miller"
+    },
+    "employee3": {
+        "id": "EMP103",
+        "name": "Kevin Patel",
+        "email": "Kevin.Patel@rebelway.com",
+        "role": "DevOps Engineer",
+        "department": "Engineering",
+        "salary": 92000,
+        "full_time": true,
+        "Line Manager": "Sarah Miller"
+    }
+}
