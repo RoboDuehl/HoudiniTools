@@ -6,6 +6,7 @@ employee1:
     department: Engineering
     salary: 85000
     full_time: true
+    machine: blabla
 employee2:
     id: EMP102
     name: Maria Gonzalez
@@ -14,6 +15,7 @@ employee2:
     department: Engineering
     salary: 78000
     full_time: true
+    machine: klarman 
 employee3:
     id: EMP103
     name: Kevin Patel
@@ -22,3 +24,13 @@ employee3:
     department: Engineering
     salary: 92000
     full_time: true
+    machine: whatever
+employee4:
+    id: EMP104
+    name: Andreas Wieland
+    email: kevin.patel@company.com
+    role: DevOps Engineer
+    department: Engineering
+    salary: 92000
+    full_time: true
+    machine: andal
