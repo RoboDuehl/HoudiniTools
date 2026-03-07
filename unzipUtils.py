@@ -14,6 +14,7 @@ class UnzipUtils:
             with zipfile.ZipFile(self.dirpath + "/" + zipf, "r") as zip_ref: 
                 zip_ref.extractall(self.dirpath)
             print(f"Done extracting {zipf}")
+            
         print("All files unzipped") 
 
     def deleteZipFiles(self): 
