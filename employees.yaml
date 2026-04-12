@@ -1,0 +1,36 @@
+employee1:
+    id: EMP101
+    name: Daniel Lee
+    email: daniel.lee@company.com
+    role: Software Developer
+    department: Engineering
+    salary: 85000
+    full_time: true
+    machine: blabla
+employee2:
+    id: EMP102
+    name: Maria Gonzalez
+    email: maria.gonzalez@company.com
+    role: QA Engineer
+    department: Engineering
+    salary: 78000
+    full_time: true
+    machine: klarman 
+employee3:
+    id: EMP103
+    name: Kevin Patel
+    email: kevin.patel@company.com
+    role: DevOps Engineer
+    department: Engineering
+    salary: 92000
+    full_time: true
+    machine: whatever
+employee4:
+    id: EMP104
+    name: Andreas Wieland
+    email: kevin.patel@company.com
+    role: DevOps Engineer
+    department: Engineering
+    salary: 92000
+    full_time: true
+    machine: andal

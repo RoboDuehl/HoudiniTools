@@ -1,0 +1,46 @@
+{
+    "employee1": {
+        "id": "EMP101",
+        "name": "Daniel Lee",
+        "email": "Daniel.Lee@rebelway.com",
+        "role": "Software Developer",
+        "department": "Engineering",
+        "salary": 85000,
+        "full_time": true,
+        "machine": "blabla",
+        "Line Manager": "Sarah Miller"
+    },
+    "employee2": {
+        "id": "EMP102",
+        "name": "Maria Gonzalez",
+        "email": "Maria.Gonzalez@rebelway.com",
+        "role": "QA Engineer",
+        "department": "Engineering",
+        "salary": 78000,
+        "full_time": true,
+        "machine": "klarman",
+        "Line Manager": "Sarah Miller"
+    },
+    "employee3": {
+        "id": "EMP103",
+        "name": "Kevin Patel",
+        "email": "Kevin.Patel@rebelway.com",
+        "role": "DevOps Engineer",
+        "department": "Engineering",
+        "salary": 92000,
+        "full_time": true,
+        "machine": "whatever",
+        "Line Manager": "Sarah Miller"
+    },
+    "employee4": {
+        "id": "EMP104",
+        "name": "Andreas Wieland",
+        "email": "Andreas.Wieland@rebelway.com",
+        "role": "DevOps Engineer",
+        "department": "Engineering",
+        "salary": 92000,
+        "full_time": true,
+        "machine": "andal",
+        "Line Manager": "Sarah Miller"
+    }
+}

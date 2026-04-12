@@ -1,0 +1,37 @@
+manager1:
+  id: MGR001
+  name: Sarah Thompson
+  email: sarah.thompson@company.com
+  department: Engineering
+  office:
+    building: HQ North
+    floor: 5
+    room: 512
+  reports:
+    - EMP101
+    - EMP102
+    - EMP103
+  permissions:
+    - approve_budget
+    - hire_employee
+    - access_confidential
+  active: true
+  
+manager2: 
+  id: MGR001
+  name: Sarah Miller 
+  email: sarah.miller@company.com
+  department: Engineering
+  office:
+    building: HQ North
+    floor: 5
+    room: 512
+  reports:
+    - EMP101
+    - EMP102
+    - EMP103
+  permissions:
+    - approve_budget
+    - hire_employee
+    - access_confidential
+  active: true
